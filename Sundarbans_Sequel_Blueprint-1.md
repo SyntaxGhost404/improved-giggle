@@ -98,11 +98,11 @@ Nasir reaches the vessel before them. Moin first sees curly hair, a panjabi, whi
 
 Suggested exchange:
 
-> নাসির ভাই: “অলি, ওই বাটিটা দে তো। ফখরু, ট্রেনে ঘুম হইছে?”
+> নাসির ভাই: “অলি, ওই বাটিটা দাও তো। কিরে ফখরু, ট্রেনে ঘুম কেমন হইছে?”
 >
-> আমি: “আপনি এখানে কী করেন?”
+> আমি: “আরে, তুমি এখানে কী কর?”
 >
-> নাসির ভাই: “মাছ খাই। তোরা খাইবি?”
+> নাসির ভাই: “মাছ খাই। তোরা খাবি?”
 
 Moin’s dinosaur comparison belongs here: seeing Nasir outside in anything other than his familiar panjabi and white payjama would have been the greater impossibility. Later, he wears an appropriate life jacket over that same clothing and manages the loose hem on working decks. His style need not disappear when the story becomes serious.
 
@@ -111,7 +111,7 @@ Moin’s dinosaur comparison belongs here: seeing Nasir outside in anything othe
 | Character | Useful contribution | Limit and emotional pressure |
 |---|---|---|
 | Moin | Notices wording, remembers an earlier ordinary sight, keeps a first-person record of what was actually observed. | Wants to prove the Cumilla case was not luck; must resist turning a likeness into certainty. |
-| Nasir | Leads decisions; treats immediate injuries; protects confidentiality and patient choice; insists on shore assessment and timely reporting. | A BCS surgeon has no police command. A clinical note cannot establish how a boat sank or who committed an assault. |
+| Nasir | Leads decisions; treats immediate injuries; protects confidentiality and patient choice; insists on shore assessment and timely reporting. | A surgeon has no police command. A clinical note cannot establish how a boat sank or who committed an assault. |
 | Fakhruddin | Orders accounts and dates; distinguishes an observation from an interpretation; asks measured questions. | His PhD subject is unspecified. He cannot become a marine engineer, forensic examiner, or linguist on demand. |
 | Oli | Handles ordinary filming, the trail-camera setup, and evidence copies; makes people comfortable enough to talk. | His adventurousness must mature into staying beside a frightened witness rather than chasing a skiff. |
 | Ahsanul Mama | Maintains the family connection, confirms facts personally known to him, offers religious and practical counsel. | Cannot identify a jinn by phone, obtain secret police records, or summon a rescue through influence. |
